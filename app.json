@@ -1,12 +1,14 @@
 {
   "expo": {
-    "name": "quierounturno-rn",
-    "slug": "quierounturno-rn",
+    "name": "quierounturno",
+    "slug": "quierounturno",
     "platforms": [
-      "ios",
-      "android",
-      "web"
+      "android"
     ],
+    "android": {
+      "package": "com.quierounturno.quierounturno",
+      "versionCode": 1
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,8 +23,6 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    }
+    "description": "App para crear turnos para negocios"
   }
 }
