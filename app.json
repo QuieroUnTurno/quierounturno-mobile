@@ -7,7 +7,8 @@
     ],
     "android": {
       "package": "com.quierounturno.quierounturno",
-      "versionCode": 1
+      "versionCode": 3,
+      "permissions": [ "default" ]
     },
     "version": "1.0.0",
     "orientation": "portrait",
