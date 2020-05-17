@@ -7,7 +7,7 @@
     ],
     "android": {
       "package": "com.quierounturno.quierounturno",
-      "versionCode": 3,
+      "versionCode": 4,
       "permissions": [ "default" ]
     },
     "version": "1.0.0",
